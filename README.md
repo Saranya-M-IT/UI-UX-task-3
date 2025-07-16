@@ -12,3 +12,5 @@ Sticky Bottom Navigation: Modern tabbed interface (Home, Explore, Subscriptions,
 Dark Mode Aesthetic: Comfortable viewing, especially in low-light environments.
 Rounded Thumbnails & Cards: Softer UI elements enhance modern feel.
 Quick Action Buttons: Like, Share, Save to Playlist easily reachable.
+OUTPUT:
+
