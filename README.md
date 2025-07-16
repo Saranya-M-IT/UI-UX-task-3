@@ -13,4 +13,5 @@ Dark Mode Aesthetic: Comfortable viewing, especially in low-light environments.
 Rounded Thumbnails & Cards: Softer UI elements enhance modern feel.
 Quick Action Buttons: Like, Share, Save to Playlist easily reachable.
 OUTPUT:
+(https://github.com/user-attachments/assets/2195969d-60aa-4525-9873-b61b46b7cb8a)
 
